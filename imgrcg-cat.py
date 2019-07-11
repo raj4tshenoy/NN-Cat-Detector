@@ -8,9 +8,8 @@ Hope you understand the code.
 
 Modifyable statements are surrounded by START and END CODE comments.
 
-This can also serve as an example of overfitting a dataset which can be clearly seen
-in the train accuracy of 100% and test accuracy reaching a maximum of 70%
-and test_image1 being detected as a non-cat picture.
+This demonstrates how a small dataset nor a shallow cannot be the perfect solution for a simple image-recognition application.
+
 
 """
 ###############################################################################
